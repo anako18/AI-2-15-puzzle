@@ -1,0 +1,18 @@
+﻿Сборка начата 19.12.2017 16:09:29.
+     1>Проект "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Lab2_is.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Release\Lab2_is.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Release\Lab2_is.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Release\Lab2_is.lib" /MACHINE:X86 /SAFESEH Release\Source.obj
+         Создание кода
+         1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Создание кода завершено
+         Lab2_is.vcxproj -> C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Release\Lab2_is.exe
+     1>Сборка проекта "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab2_is\Lab2_is.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.82
